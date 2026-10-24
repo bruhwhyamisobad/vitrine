@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.0-beta.16](https://github.com/bruhwhyamisobad/vitrine/compare/v1.0.0-beta.15...v1.0.0-beta.16) (2026-10-24)
+
+
+### Features
+
+* Hide upsells and Hide ads cover the flags new in 9.1.94 ([9c89598](https://github.com/bruhwhyamisobad/vitrine/commit/9c8959882d0a5dd264cea032cd8a42d6b0403213))
+* Labs shows only the flags this Spotify has, and adds the agent button ([fdc194c](https://github.com/bruhwhyamisobad/vitrine/commit/fdc194cbff4d2b2e473e44388e375fc6fd39f7f4))
+* Spoof Premium adds shuffle settings, smart shuffle in Jams and Automix ([8b4a24b](https://github.com/bruhwhyamisobad/vitrine/commit/8b4a24b8a08cbda5eaee3c30abee3ceffd98e29c))
+* Spoof Premium drops more of Free's limits, Hide upsells hides 4 more ([981873c](https://github.com/bruhwhyamisobad/vitrine/commit/981873c0df91e5b8e527f9c84aae06bc7a6549bc))
+* Spoof Premium shows the DJ in more countries (experiment) ([69bbefb](https://github.com/bruhwhyamisobad/vitrine/commit/69bbefb9f17fa8f6ac0733183c0c4f87271999e2))
+
+
+### Fixes
+
+* cut the work hooks do on every frame, layout pass and player report ([#96](https://github.com/bruhwhyamisobad/vitrine/issues/96)) ([10212e4](https://github.com/bruhwhyamisobad/vitrine/commit/10212e4516858f440887034bfa137ec04dedbc53))
+
 ## [1.0.0-beta.15](https://github.com/My-Name-Is-Jeff/vitrine/compare/v1.0.0-beta.14...v1.0.0-beta.15) (2026-10-24)
 
 
